@@ -1,0 +1,6 @@
+nltk
+bs4
+numpy
+ipykernel
+lxml
+scikit-learn
